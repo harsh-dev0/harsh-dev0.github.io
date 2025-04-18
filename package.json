@@ -1,6 +1,6 @@
 {
-  "name": "molecular-horizon",
-  "version": "4.7.0",
+  "name": "znet",
+  "version": "1.0.0",
   "scripts": {
     "dev": "astro dev",
     "start": "astro dev",
