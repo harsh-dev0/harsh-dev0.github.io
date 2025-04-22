@@ -297,7 +297,6 @@ const readFileTool: ToolDefinition = {
   description:
     "Reads the contents of a file at a given relative path. Only use for text files.",
   inputSchema: {
- вив
     type: "object",
     properties: {
       path: {
@@ -747,7 +746,7 @@ And we update the system prompt so the agent knows how to use it:
 
 With this, your agent is now officially no longer trolling. It can read, list, and now edit files like a real assistant.
 
-We are ready for some juice. Yeah!! Let's go. Let's hit it with 1 classic problem.
+We are ready. Yeah!! Let's go. Let's hit it with 1 classic problem.
 
 ```ansi
 🤖 Groq + LLaMA3 Agent with Tools — let’s go!
