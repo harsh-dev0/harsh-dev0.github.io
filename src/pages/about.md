@@ -9,11 +9,21 @@ Hey, I’m Harsh, a software developer specializing in building scalable, real-w
 
 ### 🧠 What I Do
 
-I develop AI-powered tools, web apps, and real-time systems. With deep experience in **TypeScript, React.js, Node.js, PostgreSQL, and OpenAI APIs**, I work on projects that range from building developer tools to integrating AI solutions that enhance developer productivity.
+I develop AI-powered tools, web apps, and real-time systems. With deep experience in **TypeScript, React.js, Node.js, PostgreSQL, and AI APIs**, I work on projects that range from building developer tools to integrating AI solutions that enhance developer productivity.
 
 ---
 
-### 🚀 Key Projects & Impact
+### Shipped Projects
+
+- **[ZneT – AI-Powered IDE](https://znetdev.vercel.app/)** (Apr 2025):
+  Built a **web-based AI IDE** using **Next.js**, **TypeScript**, **Monaco Editor**, and **Groq’s LLaMA3**.
+  Integrated file explorer, tab system, and AI assistant for tool-based coding.
+  Enabled **zero-setup**, fast iteration with **live in-browser preview** and smart agent prompts.
+
+- **[Manim AI](https://manimai.vercel.app/)**:
+  AI-powered animation generator that converts natural language to **Manim** code and renders it.
+  Implemented using **Claude**, **Manim**, and **Python**
+  Built a custom CLI and web UI for frictionless math explainer video generation.
 
 - **[Twitter Bot](https://github.com/harsh-dev0/Shitposting-bot)**: Automated daily tweets using AI-generated summaries of GitHub activities. Integrated **LLaMA-3** for content generation, showcasing hands-off automation and scaling with **GitHub Actions**.
 - **[Debatable](https://debatable01.vercel.app/)**: A structured debate platform with moderation, threaded discussions, and voting. Built using **Next.js**, **Prisma ORM**, and **PostgreSQL**. It allows for scalable, user-driven conversations and community engagement.
@@ -27,7 +37,7 @@ I develop AI-powered tools, web apps, and real-time systems. With deep experienc
 **Languages:** JavaScript, TypeScript, Python, C++, SQL, HTML, CSS  
 **Frameworks & Tools:** React.js, Next.js, Node.js, Express.js, Prisma ORM, WebSockets, Redis  
 **Databases:** MongoDB, PostgreSQL, MySQL  
-**Tech Used in Projects:** OpenAI API, JWT, REST APIs, GitHub Actions, Git
+**Tech Used in Projects:** OpenAI API, Anthropic API, JWT, REST APIs, GitHub Actions, Git
 
 ---
 
