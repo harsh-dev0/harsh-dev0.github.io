@@ -13,7 +13,7 @@ I develop AI-powered tools, web apps, and real-time systems. With deep experienc
 
 ---
 
-### Shipped Projects
+### 🚀 Shipped Projects
 
 - **[ZneT – AI-Powered IDE](https://znetdev.vercel.app/)** (Apr 2025):
   Built a **web-based AI IDE** using **Next.js**, **TypeScript**, **Monaco Editor**, and **Groq’s LLaMA3**.
